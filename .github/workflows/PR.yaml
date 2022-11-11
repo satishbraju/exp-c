@@ -3,7 +3,7 @@ on:
   pull_request:
     branches: [main, feature1]
 jobs:
-  Pull Request Check:
+  PullRequest_Check:
     runs-on: ubuntu-latest
 
     steps:
